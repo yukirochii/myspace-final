@@ -1,6 +1,6 @@
 export const songList = [
     {
-        img: 'music/cover/about.jpg',
+        img: 'https://t2.genius.com/unsafe/252x252/https%3A%2F%2Fimages.genius.com%2Fc807961087256ae01fa1005527394ec2.1000x1000x1.jpg',
         name: 'About You',
         music: 'https://www.dropbox.com/scl/fi/ei11wyryi6rmujz4f2sa4/About-You.mp3?rlkey=obcbvzrdbrpidknnecxqiteb0&e=2&st=kjsfdg3x&raw=1',
         artist:"The 1975"
